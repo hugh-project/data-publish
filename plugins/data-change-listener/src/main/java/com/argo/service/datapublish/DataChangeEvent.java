@@ -9,7 +9,7 @@ import java.util.List;
 public class DataChangeEvent {
     public static final String CATEGORY_MASTER = "master";
     public static final String CATEGORY_TRANS = "trans";
-    public static final String DOMAIN_REGION = "region";
+    public static final String DOMAIN_REGION = "Region";
     public static final String DOMAIN_CATEGORY = "category";
     public static final String DOMAIN_UNIT = "unit";
     public static final String DOMAIN_PERSON = "person";

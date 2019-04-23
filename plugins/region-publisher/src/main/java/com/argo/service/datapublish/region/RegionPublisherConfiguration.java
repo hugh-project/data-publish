@@ -20,7 +20,7 @@ public class RegionPublisherConfiguration {
     }
 
 
-    public static final String MSGQUEUE_REGION_PUBLISH = "data-publish-region";
+    public static final String MSGQUEUE_REGION_PUBLISH = "data-publish-region1";
 
     @Bean
     public FanoutExchange regionPublishQueue() {
